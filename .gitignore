@@ -99,3 +99,6 @@ Thumbs.db
 *.bak
 test_output/
 
+项目剩余工作分工方案.md
+LiteratureReview_AIAssistant.zip
+data/embeddings/transformer_embeddings.npy
